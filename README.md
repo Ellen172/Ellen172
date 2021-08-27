@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/53973937/131051003-107bb28e-e799-4912-b3f8-ba0249023403.png)
 
 <!--
 **Ellen172/Ellen172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
