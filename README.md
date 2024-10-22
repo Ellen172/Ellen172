@@ -1,13 +1,11 @@
 # Oiie 😇
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ellen172&show_icons=true&locale=pt-br&hide_border=true" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen172&locale=pt-br&layout=compact&hide_border=true" />
-  </a>
-</div>
+
+🐺 Estudante de Sistemas de Informação na UFU 
+
+💙 Programadora full stack na Nomus 
+
+💻 Maratonas de programação
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen172&locale=pt-br&layout=compact&hide_border=true" />
+</a>
